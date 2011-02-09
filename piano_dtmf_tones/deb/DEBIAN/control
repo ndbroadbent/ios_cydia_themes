@@ -1,0 +1,11 @@
+Package: hk.ndb.piano_dtmf_tones
+Name: Piano DTMF Tones
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Piano Notes on Phone Keypad
+Homepage: https://github.com/ndbroadbent/ios_cydia_themes
+Maintainer: NathanB <www.f-77.com>
+Author: NathanB <www.f-77.com>
+Depends: winterboard (>=0.9.0)
+Section: Themes (Sounds)
+
