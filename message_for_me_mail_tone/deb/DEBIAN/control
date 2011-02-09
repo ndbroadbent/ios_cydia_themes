@@ -1,0 +1,11 @@
+Package: hk.ndb.message_for_me_mail_tone
+Name: Message For Me - IT Crowd Mail Tone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: IT Crowd - New email tone - Moss saying "Message for me"
+Homepage: https://github.com/ndbroadbent/ios_cydia_themes
+Maintainer: NathanB <www.f-77.com>
+Author: NathanB <www.f-77.com>
+Depends: winterboard (>=0.9.0)
+Section: Themes (Sounds)
+
