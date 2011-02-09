@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-PackageName=hk.ndb.balanceasoperator
+PackageName=hk.ndb.message_for_me_mail_tone
 phone=root@nathans-iphone
 package_file=`ls | grep $PackageName`
 
