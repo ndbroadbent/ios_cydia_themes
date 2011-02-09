@@ -2,8 +2,6 @@ h1. Cydia Ringtones and Themes
 
 A repository to hold all my ringtone and theme packages.
 
-h3. Index
-
 |_. Directory |_. Name |_. Package Name |
 | message_for_me_mail_tone | Message For Me - IT Crowd Mail Tone | hk.ndb.message_for_me_mail_tone |
 
