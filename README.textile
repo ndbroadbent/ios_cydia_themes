@@ -6,6 +6,7 @@ A repository to hold all my ringtone and theme packages.
 | message_for_me_mail_tone | Message For Me - IT Crowd Mail Tone |
 | piano_dtmf_tones | Piano DTMF Tones |
 | plants_vs_zombies_coin_sms_tone | Plants Vs Zombies - Coin SMS Tone |
+| crash_bandicoot_sounds | Crash Bandicoot Sounds - Replacements for SMS, Mail and other sounds |
 
 If you want to create these packages on linux, you will need to run the following command to symlink 'tar' to MacOSX's 'gnutar':
 
