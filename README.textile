@@ -4,6 +4,7 @@ A repository to hold all my ringtone and theme packages.
 
 |_. Directory |_. Name |
 | message_for_me_mail_tone | Message For Me - IT Crowd Mail Tone |
+| message_for_me_sms_tone | Message For Me - IT Crowd SMS Tone |
 | piano_dtmf_tones | Piano DTMF Tones |
 | plants_vs_zombies_coin_sms_tone | Plants Vs Zombies - Coin SMS Tone |
 | crash_bandicoot_sounds | Crash Bandicoot Sounds - Replacements for SMS, Mail and other sounds |
